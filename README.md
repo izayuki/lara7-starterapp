@@ -9,7 +9,7 @@ Laravel 7 Starter App & admin LTE 3
 ## Installasi
 - Download repository dan ekstrak atau clone repository
 	```sh
-	$ git clone https://github.com/isengoding/lara7-starterapp.git
+	$ git clone https://github.com/sainstech/lara7-starterapp.git
 	```
 - Masuk ke direktori aplikasi dan jalankan composer
 	```sh
