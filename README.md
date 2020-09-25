@@ -1,6 +1,31 @@
 ## About Laravel 7 Starter APP
 
 Laravel 7 Starter App & admin LTE 3
+Starter app sederhana menggunakan Laravel 7 dan Admin LTE 3
+
+Fitur :
+- Login
+- Roles and permission
+- Cetak PDF
+- Export Excel
+- Import dari excel ke database
+- Contoh CRUD sederhana
+
+Cara Install :
+1. Buat database dengan nama lara7_start
+2. Masuk ke direktori aplikasi dan jalankan composer
+composer install
+3. Migrate table
+php artisan migrate
+4. Seed table
+php artisan db:seed
+5. jalankan lokal develompent server
+php artisan serve
+
+Server Requirements :
+1. PHP 7.2+
+2. MySQL
+3. Composer 1.10.8+
 
 ## Demo
 
