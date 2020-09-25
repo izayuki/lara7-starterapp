@@ -52,7 +52,7 @@ Laravel 7 Starter App & admin LTE 3
  ## Author
 Sains Technology – oviyanto@gmail.com
 
-[https://github.com/izayuki/](https://github.com/izayuki/)
+[https://github.com/sainstech/](https://github.com/sainstech/)
 
 ## License
 
