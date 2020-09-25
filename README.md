@@ -86,3 +86,5 @@ Sains Technology – oviyanto@gmail.com
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - <a href="https://www.sainstech.com" target="_blank">sainstech.com</a>.
 
+## Sample Aplikasi
+![alt tag](https://i.ibb.co/GPVPFnv/demo-lara7-lte.jpg)
