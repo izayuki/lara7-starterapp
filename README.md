@@ -50,14 +50,14 @@ Laravel 7 Starter App & admin LTE 3
     Password :  password
 	```
  ## Author
-Isengoding – isengoding@gmail.com
+Sains Technology – oviyanto@gmail.com
 
-[https://github.com/isengoding/](https://github.com/isengoding/)
+[https://github.com/izayuki/](https://github.com/izayuki/)
 
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- <a href="http://isengoding.my.id" target="_blank">isengoding.my.id</a>.
+- <a href="https://www.sainstech.com" target="_blank">sainstech.com</a>.
 
